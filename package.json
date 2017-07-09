@@ -7,7 +7,9 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  },
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
