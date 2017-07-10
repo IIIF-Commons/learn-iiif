@@ -2,17 +2,19 @@ p {
   padding: 5px;
 }
 
-$special-color: #304ffe;
-
-
 .site-brand {
-  color: $special-color;
   font-size: 1.5em;
   font-weight: 300;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .nav-section {
   font-weight: 300;
+  a:hover {
+    text-decoration: none;
+  }
 }
 
 .nav-section-overview {
@@ -20,7 +22,6 @@ $special-color: #304ffe;
   padding-top: 5px;
 
   a {
-    color: $special-color;
     font-size: 1.25em;
   }
 }
@@ -29,7 +30,7 @@ $special-color: #304ffe;
   a {
     color: #455a64;
     &:hover {
-      color: $special-color;
+      color: $link-color;
     }
   }
 }
