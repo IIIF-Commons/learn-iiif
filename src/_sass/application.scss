@@ -1,3 +1,28 @@
 p {
-  padding: 10px;
+  padding: 5px;
+}
+
+$special-color: #304ffe;
+
+.nav-section {
+  font-weight: 300;
+}
+
+.nav-section-overview {
+  padding-bottom: 5px;
+  padding-top: 5px;
+
+  a {
+    color: $special-color;
+    font-size: 1.25em;
+  }
+}
+
+.nav-page {
+  a {
+    color: #455a64;
+    &:hover {
+      color: $special-color;
+    }
+  }
 }

@@ -42,4 +42,8 @@ sass:
 collections:
   overview:
     output: true
-    permalink: /:collection/:name
+    # permalink: /:collection/:name
+  image_api:
+    output: true
+  presentation_api:
+    output: true
