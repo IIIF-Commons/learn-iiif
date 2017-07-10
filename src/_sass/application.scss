@@ -4,6 +4,13 @@ p {
 
 $special-color: #304ffe;
 
+
+.site-brand {
+  color: $special-color;
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
 .nav-section {
   font-weight: 300;
 }
