@@ -16,17 +16,9 @@ Or as advanced as reading a large book in its entirety.
   style='width: 100%; height: 500px;'>
 </iframe>
 
-Both of these use cases utilize IIIF. The API specifications enable all of this to be made possible in a standardized way.
+Both of these use cases utilize IIIF. The API specifications enable all of this to be made possible in a standardized way. Simply put, IIIF enables organizations to solve common problems together.
 
-As of July 2017, the current IIIF Technical Specifications are:
- - [IIIF Image API](http://iiif.io/api/image/2.1/)
- - [IIIF Presentation API](http://iiif.io/api/presentation/2.1)
- - [IIIF Authentication API](http://iiif.io/api/auth/1.0)
- - [IIIF Search API](http://iiif.io/api/search/1.0)
-
-The two most established IIIF APIs are the Image and Presentation APIs. This guide will 
-
-IIIF not only refers to these APIs now, but also to the community of content providers, software developers, and researchers who are using the technology. 
+IIIF not only refers to these APIs now, but now also to the community of content providers, software developers, and researchers who are using the technology.
 
 <div class='d-flex justify-content-around'>
   <a class="btn btn-secondary" href="{{'overview/what-can-iiif-do' | relative_url }}">Next &raquo;</a>
