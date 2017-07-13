@@ -12,7 +12,7 @@ This can be as simple as just putting an image tag in a webpage.
 Or as advanced as reading a large book in its entirety.
 
 <iframe
-  src='https://universalviewer.io/uv.html?manifest=http://wellcomelibrary.org/iiif/collection/b20417081#?c=0&m=0&s=0&cv=1&xywh=-4057%2C-1%2C13207%2C2790'
+  src='https://universalviewer.io/uv.html?manifest=https://api.bl.uk/metadata/iiif/ark:/81055/vdc_00000004216E/manifest.json'
   style='width: 100%; height: 500px;'>
 </iframe>
 
