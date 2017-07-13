@@ -43,7 +43,7 @@ collections:
   overview:
     output: true
     # permalink: /:collection/:name
-  image_api:
+  image-api:
     output: true
   presentation_api:
     output: true
