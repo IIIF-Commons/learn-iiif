@@ -36,8 +36,8 @@ As of July 2017 the current IIIF Technical Specifications are:
  - [IIIF Authentication API](http://iiif.io/api/auth/1.0)
  - [IIIF Search API](http://iiif.io/api/search/1.0)
 
-The two most established IIIF APIs are the Image and Presentation APIs. This guide will discuss these in more depth. 
+The two most established IIIF APIs are the Image and Presentation APIs. This guide will discuss these in more depth. Let's get started with the Image API.
 
 <div class='d-flex justify-content-around'>
-  <a class="btn btn-secondary" href="{{'overview/why-use-iiif' | relative_url }}">Next &raquo;</a>
+  <a class="btn btn-secondary" href="{{'image-api' | relative_url }}">Next &raquo;</a>
 </div>

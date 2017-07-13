@@ -5,11 +5,12 @@
       name: What is IIIF?
     - slug: what-can-iiif-do
       name: What can IIIF do?
-    - slug: why-use-iiif
-      name: Why use IIIF?
 
 - slug: image-api
   name: Image API
+  pages:
+    - slug: playground
+      name: Playground
 
 - slug: presentation-api
   name: Presentation API
