@@ -2,3 +2,20 @@
   background: $gray;
   min-height: 400px;
 }
+
+.codeblock {
+  background-color: $gray-lightest;
+  // Match the colors from the IIIF site :)
+  pre {
+    padding: 20px;
+    .json-key {
+      color: #3030b0;
+    }
+    .json-string {
+      color: #5a5;
+    }
+    .json-value {
+      color: #955;
+    }
+  }
+}
