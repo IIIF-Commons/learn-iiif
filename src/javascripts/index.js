@@ -12,4 +12,8 @@ class App extends PureComponent {
   }
 }
 
-render(<App />, document.getElementById('image-api-playground'));
+const playground = document.getElementById('image-api-playground');
+
+if (playground) {
+  render(<App />, playground);
+}
