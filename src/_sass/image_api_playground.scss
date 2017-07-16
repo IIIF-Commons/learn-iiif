@@ -4,18 +4,17 @@
 }
 
 .codeblock {
-  background-color: $gray-lightest;
-  // Match the colors from the IIIF site :)
+  background-color: $codeblock;
   pre {
     padding: 20px;
     .json-key {
-      color: #3030b0;
+      color: #000080;
     }
     .json-string {
-      color: #5a5;
+      color: #d14;
     }
     .json-value {
-      color: #955;
+      color: #009999;
     }
   }
 }
