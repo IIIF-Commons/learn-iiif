@@ -1,5 +1,29 @@
 # Learn IIIF
 
+## Installation
+
+Clone the repository
+```sh
+$ git clone https://github.com/mejackreed/learn-iiif.git
+```
+
+Install the dependencies
+```sh
+$ bundle install
+...
+$ yarn install
+...
+```
+
+Build the JavaScript bundle
+```sh
+$ webpack -w
+```
+
+Run Jekyll
+```sh
+$ bundle exec jekyll serve
+```
 
 ## Licensing
 
