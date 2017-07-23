@@ -120,5 +120,4 @@ Now that we have somewhat of an idea of what these types are, lets relate them b
  - Canvas - Virtual container of the "page" of each book
  - Content - Image of each page, to be added to the canvas
 
-{% highlight json %}
-{% endhighlight %}
+A IIIF client consuming this response would now know how to display the book, associated metadata for the book, and what images represent the pages and their order.
