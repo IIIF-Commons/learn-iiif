@@ -26,6 +26,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 keep_files:
   - assets/javascripts/bundle.js
 exclude:
