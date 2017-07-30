@@ -20,5 +20,8 @@ Above is the [Image Information](http://iiif.io/api/image/2.1/#image-information
 Now that we have learned the basics of requesting images, we need to figure out how to request images that are grouped together.
 
 <div class='d-flex justify-content-around'>
-  <a class="btn btn-secondary" href="{{'presentation-api' | relative_url }}">Next &raquo;</a>
+  <a class="btn btn-secondary" href="{{'presentation-api' | relative_url }}">
+    <span class='next-continue'>Continue :arrow_right:</span>
+    <span class='next-title'>Presentation API</span>
+  </a>
 </div>

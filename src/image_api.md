@@ -32,5 +32,8 @@ The IIIF Image API server knows how to efficiently deliver these images to the v
 Let's dive into more of how the Image API works.
 
 <div class='d-flex justify-content-around'>
-  <a class="btn btn-secondary" href="{{'image-api/playground' | relative_url }}">Next &raquo;</a>
+  <a class="btn btn-secondary btn-lg" href="{{'image-api/playground' | relative_url }}">
+    <span class='next-continue'>Continue :arrow_right:</span>
+    <span class='next-title'>Image API Playground</span>
+  </a>
 </div>

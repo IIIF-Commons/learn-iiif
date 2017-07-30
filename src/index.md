@@ -16,7 +16,8 @@ IIIF (International Image Interoperability Framework) is a set API specification
 A group of users, software developers, and content providers that make up the IIIF community. Whether you are a scholar looking to use images for your ground breaking research or a dog picture aficionado hoping to share higher quality versions of your images, IIIF can help :smiley_cat:
 
 <div class='text-center'>
-  <a class='btn btn-primary' href="{{ 'overview' | relative_url }}">
-    Get Started
+  <a class='btn btn-secondary btn-lg' href="{{ 'overview' | relative_url }}">
+    <span class='next-continue'>Get Started :arrow_right:</span>
+    <span class='next-title'>A Brief Overview</span>
   </a>
 </div>

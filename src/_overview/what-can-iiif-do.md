@@ -39,5 +39,8 @@ As of July 2017 the current IIIF Technical Specifications are:
 The two most established IIIF APIs are the Image and Presentation APIs. This guide will discuss these in more depth. Let's get started with the Image API.
 
 <div class='d-flex justify-content-around'>
-  <a class="btn btn-secondary" href="{{'image-api' | relative_url }}">Next &raquo;</a>
+  <a class="btn btn-secondary" href="{{'image-api' | relative_url }}">
+    <span class='next-continue'>Continue :arrow_right:</span>
+    <span class='next-title'>Image API</span>
+  </a>
 </div>

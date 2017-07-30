@@ -21,5 +21,8 @@ Both of these use cases utilize IIIF. The API specifications enable all of this 
 IIIF not only refers to these APIs now, but now also to the community of content providers, software developers, and researchers who are using the technology.
 
 <div class='d-flex justify-content-around'>
-  <a class="btn btn-secondary" href="{{'overview/what-can-iiif-do' | relative_url }}">Next &raquo;</a>
+  <a class="btn btn-secondary btn-lg" href="{{'overview/what-can-iiif-do' | relative_url }}">
+    <span class='next-continue'>Continue :arrow_right:</span>
+    <span class='next-title'>What can IIIF do?</span>
+  </a>
 </div>
